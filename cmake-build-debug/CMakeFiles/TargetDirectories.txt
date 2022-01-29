@@ -1,0 +1,3 @@
+C:/Users/nmls1/RedeDeAutocarros/cmake-build-debug/CMakeFiles/RedeDeAutocarros.dir
+C:/Users/nmls1/RedeDeAutocarros/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nmls1/RedeDeAutocarros/cmake-build-debug/CMakeFiles/rebuild_cache.dir
